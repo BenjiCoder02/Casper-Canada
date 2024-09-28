@@ -1,0 +1,64 @@
+.svgFill {
+  fill: var(--blue);
+}
+
+.nav {
+  padding: 0 16px;
+  height: 3.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 #0000,0 0 #0000,0 0 #0000,0 0 #0000,0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px -1px rgba(0,0,0,0.1)
+}
+
+.burgerMenu {
+  display: none;
+}
+
+.navList {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navList li {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  padding: 0rem 0.75rem;
+  letter-spacing: .6px;
+  height: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navList li:hover {
+  border-bottom: 2px solid rgb(30 48 110/1);
+}
+
+.navList a {
+  color: var(--blue);
+}
+
+.logo {
+  margin: .5rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerClassLg,
+.navList {
+  height: 100%;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+  .burgerMenu {
+    display: block;
+  }
+
+  .containerClassLg {
+    display: none;
+  }
+}

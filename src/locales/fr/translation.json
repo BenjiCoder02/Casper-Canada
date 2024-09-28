@@ -1,6 +1,131 @@
 {
+  "brandName": "Casper Canada",
   "topSlide1": "Enjoy free shipping and easy returns. Rest easy with our 100-night risk-free trial!",
   "topSlide2": "Curious? Our Sleep Specialists are ",
   "topSlide2Link": "just a call away",
   "topSlide3": "Fall sale ends in: ",
+  "headerLink1": "Mattresses",
+  "headerLink2": "Pillows",
+  "headerLink3": "Bedding",
+  "headerLink4": "Sheets",
+  "headerLink5": "Furniture",
+  "headerLink6": "Accessories",
+  "headerLink7": "Sales and offers",
+  "headerSubCategories": {
+    "mattresses": {
+      "value": [
+        "Dawn",
+        "Atlas hybrid",
+        "The Casper"
+      ],
+      "performance": [
+        "Original Hybrid"
+      ],
+      "cooling": [
+        "Snow",
+        "Wave Hybrid Snow"
+      ]
+    },
+    "Pillows": {
+      "fiber": [
+        "Essential",
+        "Original"
+      ],
+      "foam": [
+        "Foam Pillow",
+        "Foam Snow Pillow"
+      ],
+      "hybrid": [
+        "Hybrid Pillow",
+        "Hybrid Snow Pillow"
+      ]
+    },
+    "Bedding": [
+      "Duvets",
+      "Mattress Protectors"
+    ],
+    "sheets": [
+      "Hyperlite",
+      "Percale"
+    ],
+    "furniture": [
+      "Aurora Bed Frame {NEW}",
+      "Haven Bed Frame {NEW}",
+      "The Foundation",
+      "Repose Bed Frame",
+      "Upholstered Bed Frame",
+      "Attachable Headboards",
+      "Lifestyle Adjustable Bases"
+    ],
+    "accessories": [
+      "Glow Light",
+      "The Dog Bed"
+    ]
+  },
+  "productTitle": "The Casper Mattress",
+  "productSubHeading": "Inspired by the mattress that started it all",
+  "affirmFinancingInfo": "Starting at {price}/mo with",
+  "learnMore": "Learn More",
+  "sizeSelectHeading": "Select your size",
+  "sizes": [
+    "Twin",
+    "TwinXL",
+    "Full",
+    "Queen",
+    "King",
+    "California King"
+  ],
+  "addToCart": "Add to Cart",
+  "shippingInfo": "In-stock, ships within 3-5 days | Free shipping & returns",
+  "deliveryInfo": "For items requiring in home delivery, customers will be contacted within 2 to 12 business days of ordering to schedule an appointment",
+  "productInfo": "The first premium foam mattress-in-a-box, The Casper works its magic and delivers unbeatable comfort night after night.",
+  "productPoints": [
+    "<b>Casper Signature Foam</b> with <b>AirScape&reg; Technology</b> increases airflow and soothes you to sleep.",
+    "<b>AirScape&reg; Technology</b> channels away heat and humidity.",
+    "<b>Premium memory foam</b> conforms to your body to absorb pressure",
+    "<b>ProSupport Foam</b> prevents sinking and sagging."
+  ],
+  "deliveryInfo1": "Free, no-contact delivery*",
+  "freeTrialInfo1": "100-night risk-free trial*",
+  "warrantyInfo": "10-year limited warranty*",
+  "productSubInfoCard1Header": "Casper Signature Foam",
+  "productSubInfoCard2Header": "AirScape &trade;",
+  "productSubInfoCard1Desc": "Our uniquely responsive layer of foam is designed to soothe you to sleep with the perfect bit of bounce.",
+  "productSubInfoCard2Desc": "Thousands of perforations in a breathable foam help keep you comfortably cool all night.",
+  "measurements": "Measurements & dimensions",
+  "materials": "Materials & certifications",
+  "materialInfo": "Our foam is CertiPUR-US® Certified, meaning it’s safe from VOCs, formaldehyde, and phthalates. The foams have been tested for low VOC (Volatile Organic Compound) emissions for indoor air quality (less than 0.5 parts per million).",
+  "materialInfoBullets": [
+    "Top layer of breathable foam.",
+    "Second layer of memory foam.",
+    "Durable base of polyurethane foam."
+  ],
+  "warrantyShippingHeader": "Warranty & shipping",
+  "warrantyShippinginfo1": "Free shipping and free returns in Canada.*",
+  "limitationsForShipping": "*Limitations and additional shipping charges apply to NT, NU and YT, the J0M FSA in QC and the V0T 1C0 postal code in BC. Terms and Conditions apply.",
+  "warrantyLimit": "Subject to 10-year Limited Mattress Warranty.",
+  "questions": "Got questions?",
+  "chatWithUs": "Chat with Us",
+  "questionsDesc": "Speak with our award-winning customer service or book a virtual appointment with a Sleep Specialist from our stores.",
+  "offerModalHeading": "Get an extra 5% off your first order",
+  "offerModalDesc": "When you sign up for marketing emails. Be the first to know about new products and VIP promos!",
+  "offerModalFinePrint": "By submitting this form, you agree to receive marketing emails from Casper Canada at the submitted email address. You can unsubscribe anytime by clicking the unsubscribe link at the bottom of the email. View Privacy. Contact Casper Canada at 60 Adelaide St E, Suite 800 Toronto, ON M5C 3E4 + hello@casper.ca",
+  "offerModalEmailinput": "Enter email",
+  "offerModalCTA": "GET AN EXTRA 5% OFF NOW",
+  "productVideoText": "Our uniquely responsive layer of foam is designed to soothe you to sleep with the perfect bit of bounce.",
+  "mattriessIsBack": "The mattress loved by millions is back.",
+  "getCozyHead": "Get Cozy",
+  "getCozyDescHead": "Comfort from the moment you crawl into bed.",
+  "getCozyDescSubHead": "Cozy Knit Cover",
+  "getCozyDescDesc": "A soft knit cover designed with added stretch so you can experience all the comfort your mattress has to offer.",
+  "fallAsleepDescHead": "Features designed to lull you to sleep.",
+  "fallAsleepSubHead": "Casper Signature™ Foam with AirScape® Technology",
+  "fallAsleepDesc": "A responsive layer of foam is designed to soothe you to sleep with the perfect bit of bounce, while added AirScape® Technology keeps you at a comfortable temperature all night",
+  "stayAsleepDescHead": "Sleep deeper and without interruptions.",
+  "stayAsleepSubHead1": "Premium Memory Foam",
+  "stayAsleepDesc1": "Absorbs pressure and cradles your body to help you stay asleep.",
+  "stayAsleepSubHead2": "ProSupport Foam",
+  "stayAsleepDesc2": "A firm base layer of foam provides long-lasting support while preventing sinking and sagging.",
+  "fallAsleepHead": "Fall Asleep",
+  "stayAsleepHead": "Stay Asleep"
 }
