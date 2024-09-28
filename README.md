@@ -1,8 +1,11 @@
 # Casper Canada Product Page
 
-
 ## This project is for the Casper Canada front end development assessment
 ## It was bootstrapped with Node V19.8.1
+
+It uses the following technologies
+1. React-helmet for seo related functionality. (https://www.npmjs.com/package/react-helmet)
+2. react-18next i18next (https://www.npmjs.com/package/react-i18next)
 
 
 
