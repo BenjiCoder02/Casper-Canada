@@ -19,9 +19,10 @@ export const NavbarLinks = ({ styles, containerClass, showIcon }) => {
                   href={link}
                   className={clsx(index === NAVLINKS.length - 1 && styles.sales)}
                 >
-                  {capitalize(t(link))}</a>
+                  {capitalize(t(link))}
+                  {showIcon && <GreaterThanIcon className={styles.greaterThanIcon} />}
+                </a>
               </li>
-              {showIcon && <GreaterThanIcon className={styles.greaterThanIcon} />}
             </div>
           ))
         }

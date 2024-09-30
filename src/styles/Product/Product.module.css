@@ -4,10 +4,6 @@
   margin: auto;
 }
 
-.sectionLeftLg {
-  margin-right: 1.75rem;
-}
-
 .mainImage {
   width: 100%;
   height: auto;
@@ -438,6 +434,9 @@ li.productBullet {
 }
 
 @media screen and (min-width: 1025px) {
+  .sectionLeftLg {
+    margin-right: 1.75rem;
+  }
   .productWrapper {
     display: grid;
     grid-template-columns: 64% 36%;

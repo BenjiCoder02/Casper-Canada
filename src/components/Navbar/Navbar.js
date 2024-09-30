@@ -29,7 +29,7 @@ const Navbar = () => {
       <button className={styles.burgerMenu} onClick={onMenuToggle}>
         <BurgerMenuIcon className={styles.svgFill} />
       </button>
-      <a href="/" className={styles.logo}>
+      <a href="/" className={clsx(styles.logo, styles.logoLg)}>
         <img alt={t('brandName')} className={styles.logoLg} src={logo} width="116" height="40" />
       </a>
       <NavbarLinks
