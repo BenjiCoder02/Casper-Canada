@@ -3,13 +3,27 @@
 ## This project is for the Casper Canada front end development assessment
 ## It was bootstrapped with Node V19.8.1
 
+## The approach
+
+
+I decided to prioritize the main section which showcases the product and the ability to add the product to the cart.So in the event the design could not be implemented in time in a real world scenario, a product owner could still decide to publish the product since the bare essentials were delivered.
+I also tried to split each part of the page as a component so it could be reused elsewhere and is purely decoupled from the rest of the page structure.
+
 It uses the following technologies
+## For the implementation
+0. React. React offers an amazing library to build scalable interfaces that can be split into components and allows developers to drag and drop functionality where it's needed with minimal changes. 
 ## For seo
 1. React-helmet for seo related functionality. (https://www.npmjs.com/package/react-helmet)
 ## For Translations
 2. react-18next i18next (https://www.npmjs.com/package/react-i18next)
 ## For dynamic classnames
 3. (clsx https://www.npmjs.com/package/clsx)
+
+Features that could not be delivered in time
+1. The mobile slider for the main product image.
+2. The slider at the top in blue.
+3. The ratings and testimonials section.
+
 
 To run the project just use `npm start`
 The project was created with Node V19. In case you have isses with installation or run. Try to use this version of Node.
