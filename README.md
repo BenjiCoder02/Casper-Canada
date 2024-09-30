@@ -11,6 +11,13 @@ It uses the following technologies
 ## For dynamic classnames
 3. (clsx https://www.npmjs.com/package/clsx)
 
+To run the project just use `npm start`
+The project was created with Node V19. In case you have isses with installation or run. Try to use this version of Node.
+
+#Architecture
+The page is split into multiple components.
+This makes it easier to move things around as needed and resuse where applicable.
+
 
 
 

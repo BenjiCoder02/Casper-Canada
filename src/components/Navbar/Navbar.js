@@ -16,6 +16,11 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const onMenuToggle = useCallback(() => {
+    if (!isOpen) {
+      document.body.classList.add('no-scroll');
+    } else {
+      document.body.classList.remove('no-scroll');
+    }
     setIsOpen(!isOpen);
   }, [isOpen]);
 

@@ -68,10 +68,10 @@
   "learnMore": "Learn More",
   "sizeSelectHeading": "Select your size",
   "sizes": [
+    "Queen",
     "Twin",
     "TwinXL",
     "Full",
-    "Queen",
     "King",
     "California King"
   ],

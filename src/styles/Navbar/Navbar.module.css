@@ -4,9 +4,10 @@
 
 .nav {
   padding: 0 16px;
+  position: relative;
   height: 3.5rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   box-shadow: 0 0 #0000,0 0 #0000,0 0 #0000,0 0 #0000,0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px -1px rgba(0,0,0,0.1)
 }
@@ -17,8 +18,8 @@
 }
 
 .smNavContainer {
-  display: none;
-
+  min-height: 100vh;
+  overflow: hidden;
 }
 
 .smNavContainer.open {
@@ -62,7 +63,6 @@
 }
 
 .logo {
-  margin: .5rem 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -79,7 +79,8 @@
 
 
 .smNavContainer.open {
-  position: absolute;
+  position: fixed;
+  z-index: 2;
   top: 0;
   left: 0;
   width: 100vw;
@@ -87,13 +88,22 @@
 }
 
 .smNavContainer nav {
-  padding: 1.25rem;
+  padding: 1.75rem;
 }
 
 .logoSmContainer {
   display: flex;
   justify-content: space-between;
   width: 100%;
+  margin-bottom: 20px;
+}
+
+.logoSmContainer .logo {
+  margin: 0 0 .5rem 0;
+}
+
+nav.containerClassSm {
+  padding: 0px;
 }
 
 .containerClassSm ul,
@@ -112,8 +122,8 @@
 }
 
 .smNavContainer.open .navList li {
-    margin-top: calc(1.25rem* 1);
-    margin-bottom: calc(1.25rem* 1);
+    margin-top: .5rem;
+    margin-bottom: .5rem;
 }
 
 .mobileNavBottom {
@@ -129,12 +139,53 @@
 }
 
 .mobileNavBottom select {
-  height: 
+  padding: .5rem 1rem;
+  border: none;
+  outline: none;
+}
+
+.mobileNavBottom label {
+  display: flex;
+  align-items: center;
+  padding-left: 35px;
+  padding-right: 20px;
+  justify-content: center;
+  background: #fff;
+  border-radius: 20px;
+  width: 200px;
+  margin-top: 1.5rem;
+}
+
+.countryIcon {
+  position: absolute;
+  left: 35px;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+}
+
+.localeSelector {
+  border-radius: 20px;
+  font-size: 100%;
 }
 
 
+@media screen and (min-width: 1025px) {
+  .logo {
+    position: absolute;
+    left: 1rem;
+  }
+
+  .nav button {
+    position: absolute;
+    right: 1rem;
+  }
+}
 
 @media screen and (max-width: 1024px) {
+  .nav {
+    justify-content: space-between;
+  }
   .burgerMenu {
     display: block;
   }
@@ -157,7 +208,7 @@
   }
 
   .navList li {
-    padding: 0.5rem;
+    padding: 0.5rem 0px;
   }
 
   

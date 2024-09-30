@@ -43,3 +43,8 @@ button {
 li {
   list-style-type: none;
 }
+
+.no-scroll {
+  overflow: hidden;
+  height: 100%;
+}

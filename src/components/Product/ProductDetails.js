@@ -8,13 +8,15 @@ export const ProductDetails = ({ styles }) => {
   return (
     <section className={styles.detailsLg}>
       <h2>{t('productSubHeading')}</h2>
-      <div>
-        <img src={ASSET_URLS.casperDetail1} alt="Signature foam" />
-        <p>{t('productSubInfoCard1Desc')}</p>
-      </div>
-      <div>
-        <img src={ASSET_URLS.casperDetail2} alt="airscape" />
-        <p>{t('productSubInfoCard2Desc')}</p>
+      <div className={styles.sectionWrapper}>
+        <div className={styles.section}>
+          <img src={ASSET_URLS.casperDetail1} alt="Signature foam" />
+          <p>{t('productSubInfoCard1Desc')}</p>
+        </div>
+        <div className={styles.section}>
+          <img src={ASSET_URLS.casperDetail2} alt="airscape" />
+          <p>{t('productSubInfoCard2Desc')}</p>
+        </div>
       </div>
     </section>
   );
