@@ -297,6 +297,7 @@ li.productBullet {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.25rem;
+  margin-top: 1.25rem;
 }
 
 .productImageGrid img {
@@ -305,6 +306,26 @@ li.productBullet {
 
 .sectionRightLg .mainImage {
   display: none;
+}
+
+.deliveryContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: var(--bg-gray-light);
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+.deliveryContainer div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  color: var(--text-blue);
+  margin-top: .5rem;
+  font-size: 14px;
+  padding: 0px .5rem;
 }
 
 @media screen and (min-width: 1025px) {
