@@ -27,7 +27,9 @@ export const ProductSpecs = ({ styles }) => {
           className={styles.specTitle}
         >
           <h4>{t('measurements')}</h4>
-          <CloseIcon className={clsx(styles.svg, { [styles.active]: active === 'measurements' })} />
+          <CloseIcon
+            className={clsx(styles.svg, { [styles.active]: active === 'measurements' })}
+          />
         </button>
         <Measurements
           className={clsx({ [styles.active]: active === 'measurements' })}
@@ -40,7 +42,9 @@ export const ProductSpecs = ({ styles }) => {
           className={styles.specTitle}
         >
           <h4>{t('materials')}</h4>
-          <CloseIcon className={clsx(styles.svg, { [styles.active]: active === 'materials' })} />
+          <CloseIcon
+            className={clsx(styles.svg, { [styles.active]: active === 'materials' })}
+          />
         </button>
         <div className={clsx(styles.detailContainer, { [styles.active]: active === 'materials' })}>
           <div className={styles.detailWrapperMaterial}>
@@ -57,9 +61,12 @@ export const ProductSpecs = ({ styles }) => {
           className={styles.specTitle}
         >
           <h4>{t('warrantyShippingHeader')}</h4>
-          <CloseIcon className={clsx(styles.svg, { [styles.active]: active === 'warranty' })} />
+          <CloseIcon
+            className={clsx(styles.svg, { [styles.active]: active === 'warranty' })}
+          />
         </button>
-        <div className={clsx(styles.detailContainer, { [styles.active]: active === 'warranty' })}>
+        <div
+          className={clsx(styles.detailContainer, { [styles.active]: active === 'warranty' })}>
           <div className={styles.detailWrapperMaterial}>
             <p>{t('warrantyShippinginfo1')}</p>
             <p>{t('limitationsForShipping')}</p>

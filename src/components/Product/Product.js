@@ -9,6 +9,7 @@ import { ProductDetails } from './ProductDetails';
 import { ProductImageGrid } from './ProductImageGrid';
 import { DeliveryDetails } from './DeliveryDetails';
 import { ProductSpecs } from './ProductSpecs';
+import { QuestionsSection } from './QuestionsSection';
 
 const Product = () => {
   return (
@@ -29,6 +30,7 @@ const Product = () => {
         <ProductInfo styles={styles} />
         <DeliveryDetails styles={styles} />
         <ProductSpecs styles={styles} />
+        <QuestionsSection styles={styles} />
       </div>
     </div>
   );
