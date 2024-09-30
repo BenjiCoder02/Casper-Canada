@@ -1,4 +1,15 @@
 .slider {
   height: 3.5rem;
   background-color: var(--blue);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 2rem;
+}
+
+.langSelect, .langSelect button {
+  color: #fff;
+  font-size: .875rem;
+  letter-spacing: .6px;
+  font-weight: 200;
 }

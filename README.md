@@ -4,9 +4,12 @@
 ## It was bootstrapped with Node V19.8.1
 
 It uses the following technologies
+## For seo
 1. React-helmet for seo related functionality. (https://www.npmjs.com/package/react-helmet)
+## For Translations
 2. react-18next i18next (https://www.npmjs.com/package/react-i18next)
-
+## For dynamic classnames
+3. (clsx https://www.npmjs.com/package/clsx)
 
 
 

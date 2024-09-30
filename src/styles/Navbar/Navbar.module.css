@@ -11,8 +11,24 @@
   box-shadow: 0 0 #0000,0 0 #0000,0 0 #0000,0 0 #0000,0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px -1px rgba(0,0,0,0.1)
 }
 
-.burgerMenu {
+.burgerMenu,
+.smNavContainer {
   display: none;
+}
+
+.smNavContainer {
+  display: none;
+
+}
+
+.smNavContainer.open {
+  display: flex;
+}
+
+.linkContainer {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 
 .navList {
@@ -29,6 +45,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.navList .sales {
+  color: var(--light-orange);
 }
 
 .navList li:hover {
@@ -51,6 +73,65 @@
   height: 100%;
 }
 
+.greaterThanIcon {
+  rotate: -90deg;
+}
+
+
+.smNavContainer.open {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  background: var(--white);
+}
+
+.smNavContainer nav {
+  padding: 1.25rem;
+}
+
+.logoSmContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.containerClassSm ul,
+.smNavContainer.open {
+  display: flex;
+  flex-direction: column;
+}
+
+.navList {
+  display: flex;
+}
+
+
+.smNavContainer.open .navList li a {
+  font-size: 1.875rem;
+}
+
+.smNavContainer.open .navList li {
+    margin-top: calc(1.25rem* 1);
+    margin-bottom: calc(1.25rem* 1);
+}
+
+.mobileNavBottom {
+  width: 100%;
+  background: var(--blue);
+  display: flex;
+  flex-direction: column;
+  padding: 1.75rem;
+}
+
+.mobileNavBottom a {
+  color: var(--white);
+}
+
+.mobileNavBottom select {
+  height: 
+}
+
 
 
 @media screen and (max-width: 1024px) {
@@ -58,7 +139,37 @@
     display: block;
   }
 
+  .smNavContainer {
+    font-size: 18px;
+  }
+
   .containerClassLg {
     display: none;
   }
+
+  .logo img {
+    width: auto;
+    height: 1.5rem
+  }
+
+  img.logoLg {
+    height: 40px;
+  }
+
+  .navList li {
+    padding: 0.5rem;
+  }
+
+  
+
+  .navList li:hover {
+    border-bottom-color: transparent;
+  }
+
+  .linkContainer {
+    display: flex;
+    align-items: center;
+  }
+
+  
 }

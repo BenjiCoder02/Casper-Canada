@@ -80,10 +80,10 @@
   "deliveryInfo": "For items requiring in home delivery, customers will be contacted within 2 to 12 business days of ordering to schedule an appointment",
   "productInfo": "The first premium foam mattress-in-a-box, The Casper works its magic and delivers unbeatable comfort night after night.",
   "productPoints": [
-    "<b>Casper Signature Foam</b> with <b>AirScape&reg; Technology</b> increases airflow and soothes you to sleep.",
-    "<b>AirScape&reg; Technology</b> channels away heat and humidity.",
-    "<b>Premium memory foam</b> conforms to your body to absorb pressure",
-    "<b>ProSupport Foam</b> prevents sinking and sagging."
+    "<strong>Casper Signature Foam</strong> with <strong>AirScape&reg; Technology</strong> increases airflow and soothes you to sleep.",
+    "<strong>AirScape&reg; Technology</strong> channels away heat and humidity.",
+    "<strong>Premium memory foam</strong> conforms to your body to absorb pressure",
+    "<strong>ProSupport Foam</strong> prevents sinking and sagging."
   ],
   "deliveryInfo1": "Free, no-contact delivery*",
   "freeTrialInfo1": "100-night risk-free trial*",
@@ -127,5 +127,14 @@
   "stayAsleepSubHead2": "ProSupport Foam",
   "stayAsleepDesc2": "A firm base layer of foam provides long-lasting support while preventing sinking and sagging.",
   "fallAsleepHead": "Fall Asleep",
-  "stayAsleepHead": "Stay Asleep"
+  "stayAsleepHead": "Stay Asleep",
+  "mattresses": "Mattresses",
+  "pillows": "Pillows",
+  "bedding": "Bedding",
+  "sheets": "Sheets",
+  "furniture": "Furniture",
+  "accessories": "Accessories",
+  "salesAndOffers": "Sales and Offers",
+  "findAStore": "Find a store",
+  "blog": "Blog"
 }

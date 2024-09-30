@@ -1,131 +1,140 @@
 {
   "brandName": "Casper Canada",
-  "topSlide1": "Enjoy free shipping and easy returns. Rest easy with our 100-night risk-free trial!",
-  "topSlide2": "Curious? Our Sleep Specialists are ",
-  "topSlide2Link": "just a call away",
-  "topSlide3": "Fall sale ends in: ",
-  "headerLink1": "Mattresses",
-  "headerLink2": "Pillows",
-  "headerLink3": "Bedding",
-  "headerLink4": "Sheets",
-  "headerLink5": "Furniture",
-  "headerLink6": "Accessories",
-  "headerLink7": "Sales and offers",
+  "topSlide1": "Profitez de la livraison gratuite et des retours faciles. Reposez-vous tranquille avec notre essai de 100 nuits sans risque !",
+  "topSlide2": "Vous êtes curieux ? Nos spécialistes du sommeil sont ",
+  "topSlide2Link": "à un appel près",
+  "topSlide3": "La vente d'automne se termine dans : ",
+  "headerLink1": "Matelas",
+  "headerLink2": "Oreillers",
+  "headerLink3": "Literie",
+  "headerLink4": "Draps",
+  "headerLink5": "Mobilier",
+  "headerLink6": "Accessoires",
+  "headerLink7": "Ventes et offres",
   "headerSubCategories": {
     "mattresses": {
       "value": [
         "Dawn",
-        "Atlas hybrid",
-        "The Casper"
+        "Atlas hybride",
+        "Le Casper"
       ],
       "performance": [
-        "Original Hybrid"
+        "Original Hybride"
       ],
       "cooling": [
-        "Snow",
-        "Wave Hybrid Snow"
+        "Neige",
+        "Hybride Neige"
       ]
     },
     "Pillows": {
       "fiber": [
-        "Essential",
+        "Essentiel",
         "Original"
       ],
       "foam": [
-        "Foam Pillow",
-        "Foam Snow Pillow"
+        "Oreiller en mousse",
+        "Oreiller en mousse neige"
       ],
       "hybrid": [
-        "Hybrid Pillow",
-        "Hybrid Snow Pillow"
+        "Oreiller hybride",
+        "Oreiller hybride neige"
       ]
     },
     "Bedding": [
-      "Duvets",
-      "Mattress Protectors"
+      "Couettes",
+      "Protections de matelas"
     ],
     "sheets": [
       "Hyperlite",
       "Percale"
     ],
     "furniture": [
-      "Aurora Bed Frame {NEW}",
-      "Haven Bed Frame {NEW}",
-      "The Foundation",
-      "Repose Bed Frame",
-      "Upholstered Bed Frame",
-      "Attachable Headboards",
-      "Lifestyle Adjustable Bases"
+      "Cadre de lit Aurora {NOUVEAU}",
+      "Cadre de lit Haven {NOUVEAU}",
+      "La Fondation",
+      "Cadre de lit Repose",
+      "Cadre de lit rembourré",
+      "Têtes de lit attachables",
+      "Bases ajustables Lifestyle"
     ],
     "accessories": [
-      "Glow Light",
-      "The Dog Bed"
+      "Lumière Glow",
+      "Le lit pour chien"
     ]
   },
-  "productTitle": "The Casper Mattress",
-  "productSubHeading": "Inspired by the mattress that started it all",
-  "affirmFinancingInfo": "Starting at {price}/mo with",
-  "learnMore": "Learn More",
-  "sizeSelectHeading": "Select your size",
+  "productTitle": "Le Matelas Casper",
+  "productSubHeading": "Inspiré par le matelas qui a tout commencé",
+  "affirmFinancingInfo": "À partir de {price}/mois avec",
+  "learnMore": "En savoir plus",
+  "sizeSelectHeading": "Sélectionnez votre taille",
   "sizes": [
-    "Twin",
-    "TwinXL",
-    "Full",
-    "Queen",
-    "King",
-    "California King"
+    "Jumeau",
+    "Jumeau XL",
+    "Double",
+    "Reine",
+    "Roi",
+    "Roi de Californie"
   ],
-  "addToCart": "Add to Cart",
-  "shippingInfo": "In-stock, ships within 3-5 days | Free shipping & returns",
-  "deliveryInfo": "For items requiring in home delivery, customers will be contacted within 2 to 12 business days of ordering to schedule an appointment",
-  "productInfo": "The first premium foam mattress-in-a-box, The Casper works its magic and delivers unbeatable comfort night after night.",
+  "addToCart": "Ajouter au panier",
+  "shippingInfo": "En stock, expédié sous 3 à 5 jours | Livraison et retours gratuits",
+  "deliveryInfo": "Pour les articles nécessitant une livraison à domicile, les clients seront contactés dans les 2 à 12 jours ouvrables suivant la commande pour planifier un rendez-vous.",
+  "productInfo": "Le premier matelas en mousse premium dans une boîte, le Casper opère sa magie et offre un confort imbattable nuit après nuit.",
   "productPoints": [
-    "<b>Casper Signature Foam</b> with <b>AirScape&reg; Technology</b> increases airflow and soothes you to sleep.",
-    "<b>AirScape&reg; Technology</b> channels away heat and humidity.",
-    "<b>Premium memory foam</b> conforms to your body to absorb pressure",
-    "<b>ProSupport Foam</b> prevents sinking and sagging."
+    "<strong>Mousse Signature Casper</strong> avec <strong>Technologie AirScape&reg;</strong> augmente le flux d'air et vous berce vers le sommeil.",
+    "<strong>Technologie AirScape&reg;</strong> éloigne la chaleur et l'humidité.",
+    "<strong>Mousse à mémoire de forme premium</strong> s'adapte à votre corps pour absorber la pression.",
+    "<strong>Mousse ProSupport</strong> empêche l'enfoncement et l'affaissement."
   ],
-  "deliveryInfo1": "Free, no-contact delivery*",
-  "freeTrialInfo1": "100-night risk-free trial*",
-  "warrantyInfo": "10-year limited warranty*",
-  "productSubInfoCard1Header": "Casper Signature Foam",
+  "deliveryInfo1": "Livraison gratuite sans contact*",
+  "freeTrialInfo1": "Essai sans risque de 100 nuits*",
+  "warrantyInfo": "Garantie limitée de 10 ans*",
+  "productSubInfoCard1Header": "Mousse Signature Casper",
   "productSubInfoCard2Header": "AirScape &trade;",
-  "productSubInfoCard1Desc": "Our uniquely responsive layer of foam is designed to soothe you to sleep with the perfect bit of bounce.",
-  "productSubInfoCard2Desc": "Thousands of perforations in a breathable foam help keep you comfortably cool all night.",
-  "measurements": "Measurements & dimensions",
-  "materials": "Materials & certifications",
-  "materialInfo": "Our foam is CertiPUR-US® Certified, meaning it’s safe from VOCs, formaldehyde, and phthalates. The foams have been tested for low VOC (Volatile Organic Compound) emissions for indoor air quality (less than 0.5 parts per million).",
+  "productSubInfoCard1Desc": "Notre couche de mousse réactive est conçue pour vous apaiser au sommeil avec le parfait rebond.",
+  "productSubInfoCard2Desc": "Des milliers de perforations dans une mousse respirante aident à vous garder agréablement au frais toute la nuit.",
+  "measurements": "Mesures & dimensions",
+  "materials": "Matériaux & certifications",
+  "materialInfo": "Notre mousse est certifiée CertiPUR-US®, ce qui signifie qu'elle est exempte de COV, de formaldéhyde et de phtalates. Les mousses ont été testées pour des émissions de COV (Composés Organiques Volatils) faibles pour la qualité de l'air intérieur (moins de 0,5 parties par million).",
   "materialInfoBullets": [
-    "Top layer of breathable foam.",
-    "Second layer of memory foam.",
-    "Durable base of polyurethane foam."
+    "Couche supérieure en mousse respirante.",
+    "Deuxième couche en mousse à mémoire de forme.",
+    "Base durable en mousse de polyuréthane."
   ],
-  "warrantyShippingHeader": "Warranty & shipping",
-  "warrantyShippinginfo1": "Free shipping and free returns in Canada.*",
-  "limitationsForShipping": "*Limitations and additional shipping charges apply to NT, NU and YT, the J0M FSA in QC and the V0T 1C0 postal code in BC. Terms and Conditions apply.",
-  "warrantyLimit": "Subject to 10-year Limited Mattress Warranty.",
-  "questions": "Got questions?",
-  "chatWithUs": "Chat with Us",
-  "questionsDesc": "Speak with our award-winning customer service or book a virtual appointment with a Sleep Specialist from our stores.",
-  "offerModalHeading": "Get an extra 5% off your first order",
-  "offerModalDesc": "When you sign up for marketing emails. Be the first to know about new products and VIP promos!",
-  "offerModalFinePrint": "By submitting this form, you agree to receive marketing emails from Casper Canada at the submitted email address. You can unsubscribe anytime by clicking the unsubscribe link at the bottom of the email. View Privacy. Contact Casper Canada at 60 Adelaide St E, Suite 800 Toronto, ON M5C 3E4 + hello@casper.ca",
-  "offerModalEmailinput": "Enter email",
-  "offerModalCTA": "GET AN EXTRA 5% OFF NOW",
-  "productVideoText": "Our uniquely responsive layer of foam is designed to soothe you to sleep with the perfect bit of bounce.",
-  "mattriessIsBack": "The mattress loved by millions is back.",
-  "getCozyHead": "Get Cozy",
-  "getCozyDescHead": "Comfort from the moment you crawl into bed.",
-  "getCozyDescSubHead": "Cozy Knit Cover",
-  "getCozyDescDesc": "A soft knit cover designed with added stretch so you can experience all the comfort your mattress has to offer.",
-  "fallAsleepDescHead": "Features designed to lull you to sleep.",
-  "fallAsleepSubHead": "Casper Signature™ Foam with AirScape® Technology",
-  "fallAsleepDesc": "A responsive layer of foam is designed to soothe you to sleep with the perfect bit of bounce, while added AirScape® Technology keeps you at a comfortable temperature all night",
-  "stayAsleepDescHead": "Sleep deeper and without interruptions.",
-  "stayAsleepSubHead1": "Premium Memory Foam",
-  "stayAsleepDesc1": "Absorbs pressure and cradles your body to help you stay asleep.",
-  "stayAsleepSubHead2": "ProSupport Foam",
-  "stayAsleepDesc2": "A firm base layer of foam provides long-lasting support while preventing sinking and sagging.",
-  "fallAsleepHead": "Fall Asleep",
-  "stayAsleepHead": "Stay Asleep"
+  "warrantyShippingHeader": "Garantie & expédition",
+  "warrantyShippinginfo1": "Livraison gratuite et retours gratuits au Canada.*",
+  "limitationsForShipping": "*Des limitations et des frais d'expédition supplémentaires s'appliquent à NT, NU et YT, le code postal J0M FSA au QC et le code postal V0T 1C0 en Colombie-Britannique. Des termes et conditions s'appliquent.",
+  "warrantyLimit": "Sous réserve de la garantie limitée de 10 ans sur le matelas.",
+  "questions": "Des questions ?",
+  "chatWithUs": "Discuter avec nous",
+  "questionsDesc": "Parlez avec notre service clientèle primé ou prenez rendez-vous virtuel avec un spécialiste du sommeil de nos magasins.",
+  "offerModalHeading": "Obtenez 5 % de réduction supplémentaire sur votre première commande",
+  "offerModalDesc": "Lorsque vous vous inscrivez pour recevoir des e-mails marketing. Soyez le premier à connaître les nouveaux produits et les promotions VIP !",
+  "offerModalFinePrint": "En soumettant ce formulaire, vous acceptez de recevoir des e-mails marketing de Casper Canada à l'adresse e-mail fournie. Vous pouvez vous désabonner à tout moment en cliquant sur le lien de désinscription au bas de l'e-mail. Voir la politique de confidentialité. Contactez Casper Canada au 60 Adelaide St E, Suite 800 Toronto, ON M5C 3E4 + hello@casper.ca",
+  "offerModalEmailinput": "Entrez l'email",
+  "offerModalCTA": "OBTENEZ 5 % DE RÉDUCTION SUPPLÉMENTAIRE MAINTENANT",
+  "productVideoText": "Notre couche de mousse réactive est conçue pour vous apaiser au sommeil avec le parfait rebond.",
+  "mattriessIsBack": "Le matelas aimé par des millions est de retour.",
+  "getCozyHead": "Mettez-vous à l'aise",
+  "getCozyDescHead": "Confort dès que vous grimpez au lit.",
+  "getCozyDescSubHead": "Housse en tricot confortable",
+  "getCozyDescDesc": "Une housse en tricot douce conçue avec un peu d'élasticité pour que vous puissiez ressentir tout le confort que votre matelas a à offrir.",
+  "fallAsleepDescHead": "Caractéristiques conçues pour vous endormir.",
+  "fallAsleepSubHead": "Mousse Signature™ Casper avec Technologie AirScape®",
+  "fallAsleepDesc": "Une couche de mousse réactive est conçue pour vous apaiser au sommeil avec le parfait rebond, tandis que la Technologie AirScape® vous maintient à une température confortable toute la nuit.",
+  "stayAsleepDescHead": "Dormez plus profondément et sans interruptions.",
+  "stayAsleepSubHead1": "Mousse à mémoire de forme premium",
+  "stayAsleepDesc1": "Absorbe la pression et berce votre corps pour vous aider à rester endormi.",
+  "stayAsleepSubHead2": "Mousse ProSupport",
+  "stayAsleepDesc2": "Une couche de base ferme en mousse offre un soutien durable tout en empêchant l'enfoncement et l'affaissement.",
+  "fallAsleepHead": "S'endormir",
+  "stayAsleepHead": "Rester endormi",
+  "mattresses": "Matelas",
+  "pillows": "Oreillers",
+  "bedding": "Literie",
+  "sheets": "Draps",
+  "furniture": "Mobilier",
+  "accessories": "Accessoires",
+  "salesAndOffers": "Ventes et Offres",
+  "findAStore": "Trouvez un magasin",
+  "blog": "Blog"
 }

@@ -5,5 +5,5 @@ export const NAVLINKS = [
   "sheets",
   "furniture",
   "accessories",
-  "Sales and Offers"
+  "salesAndOffers"
 ]
