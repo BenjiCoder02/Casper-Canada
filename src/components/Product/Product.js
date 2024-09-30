@@ -8,6 +8,7 @@ import { MainProductImage } from './MainProductImage';
 import { ProductDetails } from './ProductDetails';
 import { ProductImageGrid } from './ProductImageGrid';
 import { DeliveryDetails } from './DeliveryDetails';
+import { ProductSpecs } from './ProductSpecs';
 
 const Product = () => {
   return (
@@ -27,6 +28,7 @@ const Product = () => {
         <ProductSelection styles={styles} />
         <ProductInfo styles={styles} />
         <DeliveryDetails styles={styles} />
+        <ProductSpecs styles={styles} />
       </div>
     </div>
   );

@@ -328,6 +328,77 @@ li.productBullet {
   padding: 0px .5rem;
 }
 
+.specContainer {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.specWrapper, .specTitle {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.specTitle {
+  color: var(--text-blue);
+  font-size: 1.25rem;
+  padding: 1.25rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.22);
+}
+
+.detailContainer {
+  height: 0;
+  overflow: hidden;
+  transition: height 0.4s ease-in-out;
+
+}
+
+.detailWrapper,
+.detailWrapperMaterial {
+  padding: 1.25rem;
+}
+
+.detailWrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.detailContainer h6 {
+  font-size: 1rem;
+  margin-bottom: .5rem;
+}
+
+.active.detailContainer:first-of-type {
+  height: 338px;
+}
+
+.active.detailContainer:nth-of-type(1) {
+  height: 210px;
+}
+
+.bullets {
+  list-style-type: disc;
+}
+
+.detailWrapperMaterial p {
+  margin-top: 1rem;
+}
+
+.svg {
+  rotate: 45deg;
+  transition: rotate 0.4s ease-in-out;
+}
+
+.svg.active {
+  rotate: 0deg;
+}
+
+
+
+.specWrapper {
+  flex-direction: column;
+}
+
 @media screen and (min-width: 1025px) {
   .productWrapper {
     display: grid;
