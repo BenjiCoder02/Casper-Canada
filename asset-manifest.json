@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Casper-Canada/static/css/main.680a01c4.css",
-    "main.js": "/Casper-Canada/static/js/main.d92e552e.js",
+    "main.css": "/Casper-Canada/static/css/main.2d39883f.css",
+    "main.js": "/Casper-Canada/static/js/main.327413a0.js",
     "static/media/the_casper_bedroom_xl_Casper_Blue_Update_915ea8c5_207f_43bc_87c3_5596be150c2f_72527410f3.webp": "/Casper-Canada/static/media/the_casper_bedroom_xl_Casper_Blue_Update_915ea8c5_207f_43bc_87c3_5596be150c2f_72527410f3.b5ce50a20df14be61ee9.webp",
     "static/media/the_casper_mattrress_3_b3a85086e9.jpeg.webp": "/Casper-Canada/static/media/the_casper_mattrress_3_b3a85086e9.jpeg.a3d6ecfa4881f08b851f.webp",
     "static/media/the_casper_mattress_2_712666e78f.jpeg.webp": "/Casper-Canada/static/media/the_casper_mattress_2_712666e78f.jpeg.8e55495e7a3d90657f30.webp",
@@ -10,11 +10,11 @@
     "static/media/the_casper_mattress_4_9594366e5f.jpeg.webp": "/Casper-Canada/static/media/the_casper_mattress_4_9594366e5f.jpeg.1faa44c518ff9643282e.webp",
     "static/media/casper_logo.webp": "/Casper-Canada/static/media/casper_logo.327ed85ccc8e587ce7a7.webp",
     "index.html": "/Casper-Canada/index.html",
-    "main.680a01c4.css.map": "/Casper-Canada/static/css/main.680a01c4.css.map",
-    "main.d92e552e.js.map": "/Casper-Canada/static/js/main.d92e552e.js.map"
+    "main.2d39883f.css.map": "/Casper-Canada/static/css/main.2d39883f.css.map",
+    "main.327413a0.js.map": "/Casper-Canada/static/js/main.327413a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.680a01c4.css",
-    "static/js/main.d92e552e.js"
+    "static/css/main.2d39883f.css",
+    "static/js/main.327413a0.js"
   ]
 }
